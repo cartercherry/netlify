@@ -1,2 +1,2 @@
 # testNetlify
-index.html forcartercherry.xyz
+index.html for cartercherry.xyz
