@@ -1,2 +1,2 @@
 # testNetlify
-index.html for cartercherry.xyz
+tutorial #2
