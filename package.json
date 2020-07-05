@@ -1,0 +1,20 @@
+{
+  "name": "Tutorial2",
+  "version": "1.0.0",
+  "description": "tutorial #2",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/style.css ./dist/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cartercherry/testNetlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cartercherry/testNetlify/issues"
+  },
+  "homepage": "https://github.com/cartercherry/testNetlify#readme"
+}
