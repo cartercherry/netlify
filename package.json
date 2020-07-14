@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/cartercherry/testNetlify/issues"
   },
-  "homepage": "https://github.com/cartercherry/testNetlify#readme"
+  "homepage": "https://github.com/cartercherry/testNetlify#readme",
+  "dependencies": {
+    "netlify-cli": "^2.58.0"
+  }
 }
