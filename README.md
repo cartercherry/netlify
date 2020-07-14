@@ -1,2 +1,0 @@
-# testNetlify
-tutorial #2
