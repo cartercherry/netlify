@@ -48,6 +48,8 @@ main {
 footer {
   background-color: #bbb;
   grid-column: span 3;
+  background-image: url("https://source.unsplash.com/random/1000x300/?space");
+  background-repeat: no-repeat;
 }
 
 h1,
