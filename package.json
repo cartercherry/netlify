@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build":"rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/style.css ./dist/css/style.css && mkdir ./dist/images  && cp ./images/* ./dist/images"},
+    "build": "rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/style.css ./dist/css/style.css && mkdir ./dist/images  && cp ./images/* ./dist/images"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/cartercherry/netlify.git"
