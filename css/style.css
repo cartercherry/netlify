@@ -22,8 +22,11 @@ body {
 header {
   grid-column: span 3;
   background-color: #ccc;
-  background-image: url("../images/image1.jpg");
-  background-size: cover;
+  background-image: url("../images/image2.jpg");
+  /* background-image: url("https://source.unsplash.com/random/640x480/?cats"); */
+
+  /* background-image: url("https://picsum.photos/id/238/1600/1000"); */
+  background-size: contain;
   color: black;
   font-size: 2rem;
 }
