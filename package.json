@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "build": "rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/style.css ./dist/css/style.css && mkdir ./dist/images  && cp ./images/* ./dist/images && cp ./about.html ./dist/about.html"
+    "build": "rm -rf ./dist/* && mkdir ./dist/css && cp ./index.html ./dist/index.html && cp ./css/style.css ./dist/css/style.css && mkdir ./dist/images  && cp ./images/* ./dist/images && cp ./about.html ./dist/about.html && cp cabinStairs.html ./dist/cabinStairs.html && cp CabinGreatRm.html ./dist/CabinGreatRm.html"
   },
   "repository": {
     "type": "git",
